@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://i.ibb.co/5hHjckLN/banner.png" 
-     style="width: 100%; height: auto; object-fit: contain;" 
+     style="width: 100%; height: 600; object-fit: contain;" 
      alt="My Banner">
 </div>
 
