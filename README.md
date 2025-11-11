@@ -1,7 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/5hHjckLN">
-<img src="https://i.ibb.co/8gZx8b9W/Nyancat.jpg" alt="Nyancat" border="0">
-</a>
+<img src="https://ibb.co/m1mMKx8" alt="Nyancat" style="width: 100%; height: 500px; object-fit: cover;">
 </div>
 
 <br>
