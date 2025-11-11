@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/5hHjckLN/banner.png" width="100%" height="1200px" alt="My Banner" style="object-fit: cover;">
+<img src="https://i.ibb.co/5hHjckLN/banner.png" width="100%" height="50px" alt="My Banner" style="object-fit: cover;">
 </div>
 
 <br>
