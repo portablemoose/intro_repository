@@ -1,7 +1,7 @@
 <div align="center">
-<img src="[https://ibb.co/m1mMKx8](https://ibb.co/m1mMKx8)" 
-     style="width: 100%; height: 600; object-fit: contain;" 
-     alt="My Banner">
+<a href="https://ibb.co/5hHjckLN">
+<img src="https://i.ibb.co/8gZx8b9W/Nyancat.jpg" alt="Nyancat" border="0">
+</a>
 </div>
 
 <br>
