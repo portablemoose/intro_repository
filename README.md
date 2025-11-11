@@ -1,15 +1,12 @@
-<div aligh="center">
-<img src=https://ibb.co/5hHjckLN width="100%" alt="My Banner">
-
+<div align="center">
+<img src="https://i.ibb.co/5hHjckLN/banner.png" width="100%" alt="My Banner">
 </div>
 
 <br>
 
-<div aligh="center">
+<div align="center">
 
-Привет, я portablemoose!
-
-<div aligh="center">
+# Привет, я portablemoose!
 
 ![GitHub Followers](https://img.shields.io/github/followers/portablemoose?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/portablemoose?style=social)
@@ -19,27 +16,50 @@
 
 </div>
 
-## Oбо мне
+## Обо мне
 
-<div aligh="center">
+<div align="center">
 
-![Profile](https://ibb.co/Mks8YLRs)
+![Profile](https://i.ibb.co/Mks8YLRs/avatar.png)
 
-<div aligh="center">
+</div>
 
-Привет! Я **Portable Moose** - студент первого курса ITMO на факультете технологий **искусственного интеллекта**
+Привет! Я **Portable Moose** - студент первого курса ITMO на факультете технологий **искусственного интеллекта**.
 
 ## Соцсети и контакты
 
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/killingteens)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zmekophsrcbtmdmzmtvtpxxski?si=ex8nv-9WT0-em0aRCpbclw)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-bagde&logo=gmail&logoColor=white)](mailto: korsikovadiana43@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:korsikovadiana43@gmail.com)
 
 </div>
 
 ## Активность
 
-<div aligh="center">
+<div align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=portablemoose&theme=react-dark)
+
+</div>
+
+## Технологии
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+### Код + Музыка = Идеальный день
+
+</div>
 
