@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://ibb.co/vxLCpT04" alt="Nyancat" style="width: 100%; height: 500px; object-fit: cover;">
-</div>
 
 <br>
 
