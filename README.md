@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/5hHjckLN/banner.png" width="10%" alt="My Banner">
+<img src="https://i.ibb.co/5hHjckLN/banner.png"style="width:50%; height:auto"/ alt="My Banner">
 </div>
 
 <br>
