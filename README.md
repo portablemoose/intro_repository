@@ -1,5 +1,5 @@
 <div aligh="center">
-<img src="https://pin.it/75gV8O907" width="100%" alt="My Banner">
+<img src="C:\Users\User\Downloads\Nyancat.jpg" width="100%" alt="My Banner">
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div aligh="center">
 
-![Profile](https://i.pining.com/736x/5d/69/46/5d6946e26e09c4c2237eec6acc12df3d.jpg)
+![Profile]("C:\Users\User\Downloads\5d6946e26e09c4c2237eec6acc12df3d.jpg")
 
 <div aligh="center">
 
