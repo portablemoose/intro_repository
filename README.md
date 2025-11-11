@@ -1,5 +1,5 @@
 <div aligh="center">
-<img src="C:\Users\User\Downloads\Nyancat.jpg" width="100%" alt="My Banner">
+<img src=https://ibb.co/5hHjckLN width="100%" alt="My Banner">
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div aligh="center">
 
-![Profile]("C:\Users\User\Downloads\5d6946e26e09c4c2237eec6acc12df3d.jpg")
+![Profile](https://ibb.co/Mks8YLRs)
 
 <div aligh="center">
 
