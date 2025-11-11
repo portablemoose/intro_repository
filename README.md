@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/5hHjckLN/banner.png"style="width:50%; height:auto"/ alt="My Banner">
+<img src="https://i.ibb.co/5hHjckLN/banner.png" width="100%" height="300px" alt="My Banner" style="object-fit: cover;">
 </div>
 
 <br>
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![GitHub Activity Graph]((https://github-readme-activity-graph.vercel.app/graph?username=portablemoose&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=portablemoose&theme=react-dark&hide_border=true)
 
 </div>
 
